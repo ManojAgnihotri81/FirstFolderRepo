@@ -1,0 +1,3 @@
+Hi I am adding a new file called manoj.txt
+This file will be doing some work and i will be also
+Learning GIT is fun and believe me with a right teacher it is lot of fun.
